@@ -1,0 +1,1 @@
+a,b,c = int(input("num 1: ")),int(input("num 2: ")),int(input("num 3: ")); print("True") if a**2+b**2==c**2 or b**2+c**2==a**2 or c**2==a**2+b**2 else print("False")

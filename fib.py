@@ -1,0 +1,2 @@
+fibby = 1; old_fibby = 1; TIMES = int(input("Numbers to display: ")); print(fibby); exec('for i in range(TIMES-1): x = fibby; print(fibby); fibby += old_fibby; old_fibby = x')
+# Prints the fib sequence a certain number of times
