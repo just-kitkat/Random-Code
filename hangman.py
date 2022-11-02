@@ -47,7 +47,7 @@ if check:
     with open("db.json", "w") as outfile:
       json.dump(db, outfile, indent = 4)
   
-lb = {users : timing for users, timing in reversed(sorted(db["hangman"].items(), key=lambda item: item[1]))}
+lb = {users : timing for users, timing in sorted(db["hangman"].items(), key=lambda item: item[1])}
 
 count = 1
 format_lb = ""

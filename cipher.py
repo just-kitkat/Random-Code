@@ -10,5 +10,6 @@ def shift(char):
 
 def encrypt(message, position):
   for i in list(message):
-    
+    pass
+print("WIP")
   
