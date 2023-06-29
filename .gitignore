@@ -3,3 +3,7 @@ dump
 venv
 __pycache__
 *.pyc
+.replit
+poetry.lock
+pyproject.toml
+replit.nix
