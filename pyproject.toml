@@ -12,6 +12,9 @@ Kivy = "^2.1.0"
 cx-Freeze = "^6.11.1"
 colorama = "^0.4.5"
 discord = "^2.0.0"
+pycryptodome = "^3.16.0"
+exception = "^0.1.0"
+openai = "^0.27.0"
 
 [tool.poetry.dev-dependencies]
 
