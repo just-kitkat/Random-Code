@@ -1,7 +1,0 @@
-#!/usr/bin/env -S ./python
-
-
-if __name__ == '__main__':
-    from amaze import main
-    main()
-
