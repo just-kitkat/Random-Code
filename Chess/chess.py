@@ -1,6 +1,8 @@
 """
 This is chess!!!
 Note: Console version of chess for now :D
+Many features of chess have not been added in this version.
+View my chess repo on github to view the complete chess game!
 """
 
 from typing import Literal, Optional
